@@ -1,0 +1,8 @@
+{
+  "name": "@ts3/country-flags",
+  "version": "1.0.0",
+  "description": "Country flags used by the TeamSpeak 3 client",
+  "main": "dist/js/flags.js",
+  "author": "",
+  "license": "ISC"
+}
