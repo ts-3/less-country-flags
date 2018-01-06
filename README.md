@@ -1,5 +1,7 @@
 # TeamSpeak 3 country flags
 
+[![Join the chat at https://gitter.im/ts-3/less-country-flags](https://badges.gitter.im/ts-3/less-country-flags.svg)](https://gitter.im/ts-3/less-country-flags?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This package is intended to help you to use TeamSpeak 3 country flags into your applications.
 
 [![Donate](https://img.shields.io/badge/%E2%99%A5-donate-459042.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MAKZLQGRSBCT2)
