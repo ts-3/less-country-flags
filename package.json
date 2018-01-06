@@ -1,8 +1,11 @@
 {
   "name": "@ts3/country-flags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Country flags used by the TeamSpeak 3 client",
-  "main": "dist/js/flags.js",
-  "author": "",
-  "license": "ISC"
+  "author": "Antoine Pous",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ts-3/less-country-flags.git"
+  }
 }
